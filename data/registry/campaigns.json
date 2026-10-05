@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-02",
+  "updated_at": "2026-10-05",
   "campaigns": [
     {
       "id": "after-kyomaf",
@@ -289,6 +289,40 @@
       "aliases": [],
       "year": 2026,
       "official_url": "https://www.neogate.jp/makeine_goods/"
+    },
+    {
+      "id": "contents-seed-2025",
+      "name_zh": "コンテンツシード 2025",
+      "name_ja": "コンテンツシード 2025",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04595965"
+    },
+    {
+      "id": "ensky-character-goods-2024",
+      "name_zh": "Ensky 角色制品",
+      "name_ja": "エンスカイ キャラクターグッズ",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04531716"
+    },
+    {
+      "id": "snapmide",
+      "name_zh": "スナップマイド",
+      "name_ja": "スナップマイド",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://www.1999.co.jp/11138260"
+    },
+    {
+      "id": "takara-tomy-arts-deforaba-2026",
+      "name_zh": "Takara Tomy Arts 变形胶挂系列",
+      "name_ja": "でふぉラバ！ 負けヒロインが多すぎる！ キーホルダー",
+      "aliases": [
+        "でふぉラバ！"
+      ],
+      "year": 2026,
+      "official_url": "https://shop.toysanta.jp/?pid=190203881"
     }
   ]
 }

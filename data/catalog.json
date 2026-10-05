@@ -4,7 +4,7 @@
   "catalog": {
     "title": "马剃天爱星制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含马剃天爱星的官方实体制品",
-    "updated_at": "2026-10-02",
+    "updated_at": "2026-10-05",
     "status": "published"
   },
   "character": {
@@ -7858,6 +7858,56 @@
         "SR"
       ],
       "notes": "收录于随机补充包；不把二手单卡行情记作官方定价。"
+    },
+    {
+      "id": "ensky-travel-sticker-06-student-council",
+      "global_product_id": "ensky-travel-sticker-06-student-council",
+      "character_id": "basori-tiara",
+      "name_ja": "トラベルステッカー 6.生徒会",
+      "name_zh": "Ensky 旅行贴纸 6.学生会",
+      "category_id": "sticker",
+      "campaign_id": "ensky-character-goods-2024",
+      "manufacturer_id": "ensky",
+      "variant": "学生会图案包含马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约62×107mm",
+        "material": "ユポ+マットPP"
+      },
+      "release_date": "2024-11",
+      "list_price_yen": 385,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/ensky-travel-sticker-06-student-council.jpg",
+          "thumbnail_path": "images/thumbs/ensky-travel-sticker-06-student-council.webp",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/243/GOODS-04531718.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AmiAmi",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04531718"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04531718",
+          "type": "seller",
+          "checked_at": "2026-10-05"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "马剃天爱星"
+      ],
+      "notes": "官方商品图确认学生会图案包含马剃天爱星。"
     }
   ]
 }
