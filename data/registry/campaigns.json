@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-05",
+  "updated_at": "2026-10-06",
   "campaigns": [
     {
       "id": "after-kyomaf",
@@ -28,10 +28,13 @@
     },
     {
       "id": "chara-in-line-art",
-      "name_zh": "キャラ印 线稿系列",
+      "name_zh": "Chara-in 线稿系列",
       "name_ja": "キャラ印 線画シリーズ",
-      "aliases": [],
-      "year": 2025,
+      "aliases": [
+        "TOSYO GOODS",
+        "线稿系列"
+      ],
+      "year": 2024,
       "official_url": "https://tosyo-goods.jp/collections/charain_makeine"
     },
     {
@@ -149,8 +152,8 @@
       "name_zh": "小说第4卷",
       "name_ja": "小説第4巻",
       "aliases": [],
-      "year": 2023,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20230020/"
+      "year": 2022,
+      "official_url": "https://gagagabunko.jp/lineup/202210.html"
     },
     {
       "id": "novel-volume-6",
@@ -172,9 +175,11 @@
       "id": "novel-volume-9",
       "name_zh": "小说第9卷",
       "name_ja": "小説第9巻",
-      "aliases": [],
+      "aliases": [
+        "祇园祭"
+      ],
       "year": 2026,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20260034/"
+      "official_url": "https://gagagabunko.jp/special/makeine/"
     },
     {
       "id": "osanpo-kisetsu",
