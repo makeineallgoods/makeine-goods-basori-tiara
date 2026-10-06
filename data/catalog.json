@@ -3337,57 +3337,6 @@
       "notes": null
     },
     {
-      "id": "gagaga-J20260034",
-      "global_product_id": "gagaga-j20260034",
-      "character_id": "basori-tiara",
-      "name_ja": "『負けヒロインが多すぎる！』9巻 書影タペストリー",
-      "name_zh": "小说第9卷封面挂毯",
-      "category_id": "tapestry",
-      "campaign_id": "novel-volume-9",
-      "manufacturer_id": "gagaga-shop-online",
-      "variant": "第9卷封面",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": null
-      },
-      "release_date": null,
-      "list_price_yen": 3300,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/gagaga-J20260034.jpg",
-          "role": "product",
-          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260034-01.jpg",
-          "thumbnail_path": "images/thumbs/gagaga-J20260034.webp"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "GAGAGA SHOP ONLINE",
-          "phase": "general_sale",
-          "url": "https://lifetunes-mall.jp/shop/g/gJ20260034/"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://lifetunes-mall.jp/shop/g/gJ20260034/",
-          "type": "official",
-          "checked_at": "2026-10-01"
-        }
-      ],
-      "tags": [
-        "小说原作",
-        "封面",
-        "群像"
-      ],
-      "notes": null
-    },
-    {
       "id": "gagaga-J20260036",
       "global_product_id": "gagaga-j20260036",
       "character_id": "basori-tiara",
