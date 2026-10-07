@@ -4,7 +4,7 @@
   "catalog": {
     "title": "马剃天爱星制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含马剃天爱星的官方实体制品",
-    "updated_at": "2026-10-07",
+    "updated_at": "2026-10-08",
     "status": "published"
   },
   "character": {
@@ -24,7 +24,7 @@
       "global_product_id": "amnibus-93944",
       "character_id": "basori-tiara",
       "name_ja": "描き下ろし 馬剃天愛星 駅員ver. 第2弾 ダイカットステッカー",
-      "name_zh": "JR东海站员第二弹 异形贴纸 马剃天爱星",
+      "name_zh": "JR东海 推し旅 站员 第二弹 异形贴纸 马剃天爱星",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -75,7 +75,7 @@
       "global_product_id": "amnibus-93957",
       "character_id": "basori-tiara",
       "name_ja": "描き下ろし 馬剃天愛星 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
-      "name_zh": "JR东海站员第二弹 双联钢丝大型亚克力挂件 马剃天爱星",
+      "name_zh": "JR东海 推し旅 站员 第二弹 双联钢丝大型亚克力挂件 马剃天爱星",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -126,7 +126,7 @@
       "global_product_id": "amnibus-93967",
       "character_id": "basori-tiara",
       "name_ja": "描き下ろし 馬剃天愛星 駅員ver. 第2弾 特大アクリルスタンド",
-      "name_zh": "JR东海站员第二弹 特大亚克力立牌 马剃天爱星",
+      "name_zh": "JR东海 推し旅 站员 第二弹 特大亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -177,7 +177,7 @@
       "global_product_id": "amnibus-93970",
       "character_id": "basori-tiara",
       "name_ja": "描き下ろし 馬剃天愛星 駅員ver. 第2弾 BIGアクリルスタンド",
-      "name_zh": "JR东海站员第二弹 BIG亚克力立牌 马剃天爱星",
+      "name_zh": "JR东海 推し旅 站员 第二弹 BIG亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -228,7 +228,7 @@
       "global_product_id": "amnibus-jr2-acrylic-card",
       "character_id": "basori-tiara",
       "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディングアクリルカード",
-      "name_zh": "JR 东海第二弹新绘随机亚克力卡",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘随机亚克力卡",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -278,7 +278,7 @@
       "global_product_id": "amnibus-jr2-chibi-badge",
       "character_id": "basori-tiara",
       "name_ja": "駅員ver. 第2弾 ちびキャラ トレーディンググリッター缶バッジ",
-      "name_zh": "JR 东海第二弹 Q 版随机闪粉徽章",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版随机闪粉徽章",
       "category_id": "can_badge",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -328,7 +328,7 @@
       "global_product_id": "amnibus-jr2-chibi-keychain",
       "character_id": "basori-tiara",
       "name_ja": "駅員ver. 第2弾 ちびキャラ トレーディングアクリルキーホルダー",
-      "name_zh": "JR 东海第二弹 Q 版随机亚克力挂件",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版随机亚克力挂件",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -378,7 +378,7 @@
       "global_product_id": "amnibus-jr2-chibi-mug",
       "character_id": "basori-tiara",
       "name_ja": "駅員ver. 第2弾 ちびキャラ マグカップ",
-      "name_zh": "JR 东海第二弹 Q 版马克杯",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版马克杯",
       "category_id": "tableware",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -428,7 +428,7 @@
       "global_product_id": "amnibus-jr2-chibi-stand",
       "character_id": "basori-tiara",
       "name_ja": "駅員ver. 第2弾 ちびキャラ トレーディングアクリルスタンド",
-      "name_zh": "JR 东海第二弹 Q 版随机亚克力立牌",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版随机亚克力立牌",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -478,7 +478,7 @@
       "global_product_id": "amnibus-jr2-chibi-stickers",
       "character_id": "basori-tiara",
       "name_ja": "駅員ver. 第2弾 ちびキャラ フレークシール",
-      "name_zh": "JR 东海第二弹 Q 版散装贴纸",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版散装贴纸",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -528,7 +528,7 @@
       "global_product_id": "amnibus-jr2-deskmat-b",
       "character_id": "basori-tiara",
       "name_ja": "描き下ろし 駅員ver. 第2弾 マルチデスクマット B",
-      "name_zh": "JR 东海第二弹新绘多用途桌垫 B",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘多用途桌垫 B",
       "category_id": "stationery",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -578,7 +578,7 @@
       "global_product_id": "amnibus-jr2-diorama-b",
       "character_id": "basori-tiara",
       "name_ja": "描き下ろし 駅員ver. 第2弾 アクリルジオラマ B",
-      "name_zh": "JR 东海第二弹新绘亚克力场景 B",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘亚克力场景 B",
       "category_id": "acrylic_art",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -628,7 +628,7 @@
       "global_product_id": "amnibus-jr2-glitter-badge",
       "character_id": "basori-tiara",
       "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディンググリッター缶バッジ",
-      "name_zh": "JR 东海第二弹新绘随机闪粉徽章",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘随机闪粉徽章",
       "category_id": "can_badge",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -678,7 +678,7 @@
       "global_product_id": "amnibus-jr2-glitter-badge-box-bonus-b",
       "character_id": "basori-tiara",
       "name_ja": "描き下ろし 集合B 駅員ver. 第2弾 グリッター缶バッジ AMNIBUS＆アニメイト限定特典",
-      "name_zh": "JR东海站员第二弹 B组闪粉徽章 BOX预约特典",
+      "name_zh": "JR东海 推し旅 站员 第二弹 B组闪粉徽章 BOX预约特典",
       "category_id": "can_badge",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -729,7 +729,7 @@
       "global_product_id": "amnibus-jr2-instant-card",
       "character_id": "basori-tiara",
       "name_ja": "駅員ver. 第2弾 トレーディングインスタントカメラ風イラストカード",
-      "name_zh": "JR 东海第二弹随机拍立得风卡片",
+      "name_zh": "JR东海 推し旅 站员 第二弹 随机拍立得风卡片",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -779,7 +779,7 @@
       "global_product_id": "amnibus-jr2-postcards",
       "character_id": "basori-tiara",
       "name_ja": "描き下ろし 駅員ver. 第2弾 ポストカード3枚セット",
-      "name_zh": "JR 东海第二弹新绘明信片 3 枚套装",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘明信片 3 枚套装",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -829,7 +829,7 @@
       "global_product_id": "amnibus-jr2-trading-stand",
       "character_id": "basori-tiara",
       "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディングアクリルスタンド",
-      "name_zh": "JR 东海第二弹新绘随机亚克力立牌",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘随机亚克力立牌",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -1129,7 +1129,7 @@
       "global_product_id": "animega-chibi-2025-big-stand-tiara",
       "character_id": "basori-tiara",
       "name_ja": "ビッグアクリルスタンド 馬剃天愛星",
-      "name_zh": "Animega原创Q版 大型亚克力立牌 马剃天爱星",
+      "name_zh": "Animega×Sofmap Q版 大型亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1179,7 +1179,7 @@
       "global_product_id": "animega-chibi-2025-cushion-tiara",
       "character_id": "basori-tiara",
       "name_ja": "ダイカットクッション 馬剃天愛星",
-      "name_zh": "Animega原创Q版 异形抱枕 马剃天爱星",
+      "name_zh": "Animega×Sofmap Q版 异形抱枕 马剃天爱星",
       "category_id": "fabric_goods",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1229,7 +1229,7 @@
       "global_product_id": "animega-chibi-2025-eco-bag",
       "character_id": "basori-tiara",
       "name_ja": "エコバッグ",
-      "name_zh": "Animega原创Q版 环保袋",
+      "name_zh": "Animega×Sofmap Q版 环保袋",
       "category_id": "bag",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1279,7 +1279,7 @@
       "global_product_id": "animega-chibi-2025-frosted-mug",
       "character_id": "basori-tiara",
       "name_ja": "フロストマグカップ",
-      "name_zh": "Animega原创Q版 磨砂玻璃杯",
+      "name_zh": "Animega×Sofmap Q版 磨砂玻璃杯",
       "category_id": "tableware",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1329,7 +1329,7 @@
       "global_product_id": "animega-chibi-2025-long-tshirt",
       "character_id": "basori-tiara",
       "name_ja": "ロングTシャツ",
-      "name_zh": "Animega原创Q版 长袖T恤",
+      "name_zh": "Animega×Sofmap Q版 长袖T恤",
       "category_id": "apparel",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1379,7 +1379,7 @@
       "global_product_id": "animega-chibi-2025-metal-badge",
       "character_id": "basori-tiara",
       "name_ja": "トレーディングメタリック缶バッジ",
-      "name_zh": "Animega原创Q版 随机金属徽章",
+      "name_zh": "Animega×Sofmap Q版 随机金属徽章",
       "category_id": "can_badge",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1429,7 +1429,7 @@
       "global_product_id": "animega-chibi-2025-postcard-bonus-tiara",
       "character_id": "basori-tiara",
       "name_ja": "ノベルティポストカード 馬剃天愛星",
-      "name_zh": "Animega原创Q版 购入特典明信片 马剃天爱星款",
+      "name_zh": "Animega×Sofmap Q版 购入特典明信片 马剃天爱星款",
       "category_id": "card",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1479,7 +1479,7 @@
       "global_product_id": "animega-chibi-2025-stand-tiara",
       "character_id": "basori-tiara",
       "name_ja": "アクリルスタンド 馬剃天愛星",
-      "name_zh": "Animega原创Q版 亚克力立牌 马剃天爱星",
+      "name_zh": "Animega×Sofmap Q版 亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1498,6 +1498,12 @@
       "verification": "confirmed_text",
       "images": [
         {
+          "path": "images/items/suzuki-haruka-stand-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210083_1_1762945511.jpg&width=400&height=400&square=1",
+          "thumbnail_path": "images/thumbs/suzuki-haruka-stand-tiara.webp"
+        },
+        {
           "path": "images/items/animega-chibi-2025-stand-tiara.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-stand-tiara.webp",
           "role": "lineup",
@@ -1509,6 +1515,11 @@
           "seller": "アニメガ×ソフマップ",
           "phase": "general_sale",
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html"
+        },
+        {
+          "seller": "鈴木ハルカ",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3306412/"
         }
       ],
       "sources": [
@@ -1516,11 +1527,18 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html",
           "type": "official",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3306412/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
         }
       ],
       "tags": [
         "动画版",
-        "马剃天爱星"
+        "马剃天爱星",
+        "铃木遥香",
+        "单人"
       ],
       "notes": null
     },
@@ -1529,7 +1547,7 @@
       "global_product_id": "animega-chibi-2025-sticker-set",
       "character_id": "basori-tiara",
       "name_ja": "ダイカットステッカーセット",
-      "name_zh": "Animega原创Q版 异形贴纸套装",
+      "name_zh": "Animega×Sofmap Q版 异形贴纸套装",
       "category_id": "sticker",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1579,7 +1597,7 @@
       "global_product_id": "animega-chibi-2025-trading-card",
       "character_id": "basori-tiara",
       "name_ja": "トレーディングカード",
-      "name_zh": "Animega原创Q版 随机卡片",
+      "name_zh": "Animega×Sofmap Q版 随机卡片",
       "category_id": "card",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1629,7 +1647,7 @@
       "global_product_id": "animega-chibi-2025-trading-keychain",
       "character_id": "basori-tiara",
       "name_ja": "トレーディングアクリルキーホルダー",
-      "name_zh": "Animega原创Q版 随机亚克力挂件",
+      "name_zh": "Animega×Sofmap Q版 随机亚克力挂件",
       "category_id": "acrylic_keychain",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -1780,7 +1798,7 @@
       "name_ja": "アクリルボード -技- /01 集合",
       "name_zh": "CS.FRONT /01 集合亚克力板",
       "category_id": "acrylic_art",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "集合图内含马剃天爱星",
       "sale_format": {
@@ -1830,7 +1848,7 @@
       "name_ja": "アクリルカード /01 全9種",
       "name_zh": "CS.FRONT /01 随机亚克力卡",
       "category_id": "card",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "马剃天爱星",
       "sale_format": {
@@ -1880,7 +1898,7 @@
       "name_ja": "缶バッジ /01 全9種",
       "name_zh": "CS.FRONT /01 随机徽章",
       "category_id": "can_badge",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "马剃天爱星",
       "sale_format": {
@@ -1930,7 +1948,7 @@
       "name_ja": "まるっとスタンドキーホルダー /01 全9種",
       "name_zh": "CS.FRONT /01 随机竖牌挂件",
       "category_id": "acrylic_keychain",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "马剃天爱星",
       "sale_format": {
@@ -1978,7 +1996,7 @@
       "global_product_id": "csfront-09-diorama-tiara",
       "character_id": "basori-tiara",
       "name_ja": "アクリルジオラマ /09 馬剃天愛星",
-      "name_zh": "CS.FRONT /09 亚克力场景",
+      "name_zh": "CS.FRONT /09 亚克力场景 马剃天爱星",
       "category_id": "acrylic_art",
       "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
@@ -2028,7 +2046,7 @@
       "global_product_id": "csfront-09-passcase-tiara",
       "character_id": "basori-tiara",
       "name_ja": "レザーパスケース /09 馬剃天愛星",
-      "name_zh": "CS.FRONT /09 皮革卡套",
+      "name_zh": "CS.FRONT /09 皮革卡套 马剃天爱星",
       "category_id": "accessory",
       "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
@@ -2078,7 +2096,7 @@
       "global_product_id": "csfront-09-shaker-tiara",
       "character_id": "basori-tiara",
       "name_ja": "シャカシャカキーホルダー /09 馬剃天愛星",
-      "name_zh": "CS.FRONT /09 摇摇挂件",
+      "name_zh": "CS.FRONT /09 摇摇亚克力挂件 马剃天爱星",
       "category_id": "acrylic_keychain",
       "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
@@ -2128,7 +2146,7 @@
       "global_product_id": "csfront-09-sticker-tiara",
       "character_id": "basori-tiara",
       "name_ja": "ステッカー /09 馬剃天愛星",
-      "name_zh": "CS.FRONT /09 贴纸",
+      "name_zh": "CS.FRONT /09 贴纸 马剃天爱星",
       "category_id": "sticker",
       "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
@@ -2581,7 +2599,7 @@
       "global_product_id": "gagaga-j20220039",
       "character_id": "basori-tiara",
       "name_ja": "『負けヒロインが多すぎる！3』アクリルキーホルダーセット",
-      "name_zh": "小说第3卷亚克力挂件套装",
+      "name_zh": "小说第3卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-3",
       "manufacturer_id": "gagaga-shop-online",
@@ -2631,7 +2649,7 @@
       "global_product_id": "gagaga-j20220053",
       "character_id": "basori-tiara",
       "name_ja": "『負けヒロインが多すぎる！3』アクリルアートパネル ～生徒会役員ども～",
-      "name_zh": "小说第3卷亚克力艺术板 学生会干部们",
+      "name_zh": "小说第3卷 亚克力艺术板 学生会干部们",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-3",
       "manufacturer_id": "gagaga-shop-online",
@@ -2681,7 +2699,7 @@
       "global_product_id": "gagaga-j20230020",
       "character_id": "basori-tiara",
       "name_ja": "『負けヒロインが多すぎる！4』アクリルアートパネル ～ナマモノ×ナンタイカ？～",
-      "name_zh": "小说第4卷亚克力艺术板",
+      "name_zh": "小说第4卷 亚克力艺术板 生物×软体动物？",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-4",
       "manufacturer_id": "gagaga-shop-online",
@@ -2731,7 +2749,7 @@
       "global_product_id": "gagaga-j20230060",
       "character_id": "basori-tiara",
       "name_ja": "『負けヒロインが多すぎる！6』アクリルアートパネル",
-      "name_zh": "小说第6卷亚克力艺术板",
+      "name_zh": "小说第6卷 亚克力艺术板",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-6",
       "manufacturer_id": "gagaga-shop-online",
@@ -2781,7 +2799,7 @@
       "global_product_id": "gagaga-j20250010",
       "character_id": "basori-tiara",
       "name_ja": "『負けヒロインが多すぎる！8』アクリルスタンド 馬剃天愛星",
-      "name_zh": "小说第8卷 马剃天爱星 亚克力立牌",
+      "name_zh": "小说第8卷 亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
       "campaign_id": "novel-volume-8",
       "manufacturer_id": "gagaga-shop-online",
@@ -2831,7 +2849,7 @@
       "global_product_id": "gagaga-j20250026",
       "character_id": "basori-tiara",
       "name_ja": "『負けヒロインが多すぎる！8』書影B2タペストリー",
-      "name_zh": "小说第8卷封面 B2 挂毯",
+      "name_zh": "小说第8卷 封面B2挂毯",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8",
       "manufacturer_id": "gagaga-shop-online",
@@ -2881,7 +2899,7 @@
       "global_product_id": "gagaga-j20250028",
       "character_id": "basori-tiara",
       "name_ja": "『負けヒロインが多すぎる！8』アクリルアートパネル ～新たな扉～",
-      "name_zh": "小说第8卷亚克力艺术板 新的门",
+      "name_zh": "小说第8卷 亚克力艺术板 新的大门",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8",
       "manufacturer_id": "gagaga-shop-online",
@@ -2931,7 +2949,7 @@
       "global_product_id": "gagaga-j20250031",
       "character_id": "basori-tiara",
       "name_ja": "『負けヒロインが多すぎる！8』アクリルキーホルダーセット",
-      "name_zh": "小说第8卷亚克力挂件套装",
+      "name_zh": "小说第8卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-8",
       "manufacturer_id": "gagaga-shop-online",
@@ -3341,7 +3359,7 @@
       "global_product_id": "gagaga-j20260036",
       "character_id": "basori-tiara",
       "name_ja": "『負けヒロインが多すぎる！』9巻 口絵タペストリー ～いざ祇園祭～",
-      "name_zh": "小说第9卷彩页挂毯 前往祗园祭",
+      "name_zh": "小说第9卷 彩页挂毯 前往祗园祭",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-9",
       "manufacturer_id": "gagaga-shop-online",
@@ -3392,7 +3410,7 @@
       "global_product_id": "gagaga-j20260040",
       "character_id": "basori-tiara",
       "name_ja": "『負けヒロインが多すぎる！』9巻 アクリルキーホルダーセット",
-      "name_zh": "小说第9卷亚克力挂件套装",
+      "name_zh": "小说第9卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-9",
       "manufacturer_id": "gagaga-shop-online",
@@ -4762,56 +4780,6 @@
       "notes": null
     },
     {
-      "id": "suzuki-haruka-stand-tiara",
-      "global_product_id": "suzuki-haruka-stand-tiara",
-      "character_id": "basori-tiara",
-      "name_ja": "鈴木ハルカ アクリルスタンド 馬剃天愛星",
-      "name_zh": "铃木遥香绘制 亚克力立牌 马剃天爱星",
-      "category_id": "acrylic_stand",
-      "campaign_id": "suzuki-haruka-illustration",
-      "manufacturer_id": "suzuki-haruka",
-      "variant": "马剃天爱星",
-      "sale_format": {
-        "type": "single",
-        "total_variants": null
-      },
-      "spec": {
-        "size": null,
-        "material": "アクリル"
-      },
-      "release_date": null,
-      "list_price_yen": 1210,
-      "official_status": "official",
-      "verification": "confirmed_text",
-      "images": [
-        {
-          "path": "images/items/suzuki-haruka-stand-tiara.jpg",
-          "role": "product",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210083_1_1762945511.jpg&width=400&height=400&square=1",
-          "thumbnail_path": "images/thumbs/suzuki-haruka-stand-tiara.webp"
-        }
-      ],
-      "sales": [
-        {
-          "seller": "鈴木ハルカ",
-          "phase": "general_sale",
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3306412/"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3306412/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
-        }
-      ],
-      "tags": [
-        "铃木遥香",
-        "单人"
-      ],
-      "notes": null
-    },
-    {
       "id": "thechara-fes-badge",
       "global_product_id": "thechara-fes-badge",
       "character_id": "basori-tiara",
@@ -5989,9 +5957,9 @@
       "global_product_id": "thechara-shrine-badge",
       "character_id": "basori-tiara",
       "name_ja": "ホログラムカンバッジ（ブラインド）巫女舞 ver.",
-      "name_zh": "巫女舞 随机镭射徽章",
+      "name_zh": "京まふ 2026 巫女舞 随机镭射徽章",
       "category_id": "can_badge",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "马剃天爱星",
       "sale_format": {
@@ -6039,9 +6007,9 @@
       "global_product_id": "thechara-shrine-bromide-bonus",
       "character_id": "basori-tiara",
       "name_ja": "購入特典 ブロマイド 巫女舞 ver.",
-      "name_zh": "巫女舞 满额特典照片卡",
+      "name_zh": "京まふ 2026 巫女舞 After 满额特典照片卡",
       "category_id": "card",
-      "campaign_id": "after-kyomaf",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "gamers-content-seed",
       "variant": "群像图案包含马剃天爱星",
       "sale_format": {
@@ -6082,7 +6050,8 @@
         "动画版",
         "巫女舞",
         "满额特典",
-        "非卖品"
+        "非卖品",
+        "After"
       ],
       "notes": "每购买或预约内金满3000日元赠送1枚；非单独销售。"
     },
@@ -6091,9 +6060,9 @@
       "global_product_id": "thechara-shrine-deskmat",
       "character_id": "basori-tiara",
       "name_ja": "ラバーデスクマット 巫女舞 ver.",
-      "name_zh": "巫女舞 橡胶桌垫",
+      "name_zh": "京まふ 2026 巫女舞 橡胶桌垫",
       "category_id": "stationery",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "集合图内含马剃天爱星",
       "sale_format": {
@@ -6141,9 +6110,9 @@
       "global_product_id": "thechara-shrine-lottery-figure-tiara",
       "character_id": "basori-tiara",
       "name_ja": "A賞 特大アクリルフィギュア 馬剃天愛星 巫女舞 ver.",
-      "name_zh": "巫女舞 A奖特大亚克力立牌 马剃天爱星",
+      "name_zh": "京まふ 2026 巫女舞 After A奖特大亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
-      "campaign_id": "after-kyomaf",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "gamers-content-seed",
       "variant": "马剃天爱星（抽选奖品）",
       "sale_format": {
@@ -6183,7 +6152,8 @@
       "tags": [
         "巫女舞",
         "抽奖",
-        "非卖品"
+        "非卖品",
+        "After"
       ],
       "notes": "每购买或预约内金满3000日元可参加一次抽选；非卖品。"
     },
@@ -6192,9 +6162,9 @@
       "global_product_id": "thechara-shrine-memorial-art",
       "character_id": "basori-tiara",
       "name_ja": "メモリアルアート 巫女舞 ver.",
-      "name_zh": "巫女舞 纪念画",
+      "name_zh": "京まふ 2026 巫女舞 纪念画",
       "category_id": "acrylic_art",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "集合图内含马剃天爱星",
       "sale_format": {
@@ -6242,9 +6212,9 @@
       "global_product_id": "thechara-shrine-microfiber-tiara",
       "character_id": "basori-tiara",
       "name_ja": "マイクロファイバー 馬剃天愛星 巫女舞 ver.",
-      "name_zh": "巫女舞 超细纤维布 马剃天爱星",
+      "name_zh": "京まふ 2026 巫女舞 超细纤维布 马剃天爱星",
       "category_id": "fabric_goods",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "马剃天爱星",
       "sale_format": {
@@ -6292,9 +6262,9 @@
       "global_product_id": "thechara-shrine-mini-art",
       "character_id": "basori-tiara",
       "name_ja": "ミニアクリルアート 生徒会 巫女舞 ver.",
-      "name_zh": "巫女舞 学生会迷你亚克力艺术板",
+      "name_zh": "京まふ 2026 巫女舞 学生会迷你亚克力艺术板",
       "category_id": "acrylic_art",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "学生会集合图内含马剃天爱星",
       "sale_format": {
@@ -6342,9 +6312,9 @@
       "global_product_id": "thechara-shrine-stand-tiara",
       "character_id": "basori-tiara",
       "name_ja": "デカアクリルスタンド 馬剃天愛星 巫女舞 ver.",
-      "name_zh": "巫女舞 大型亚克力立牌 马剃天爱星",
+      "name_zh": "京まふ 2026 巫女舞 大型亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "马剃天爱星",
       "sale_format": {
@@ -6392,9 +6362,9 @@
       "global_product_id": "thechara-shrine-tapestry-tiara",
       "character_id": "basori-tiara",
       "name_ja": "特大タペストリー 馬剃天愛星 巫女舞 ver.",
-      "name_zh": "巫女舞 特大挂毯 马剃天爱星",
+      "name_zh": "京まふ 2026 巫女舞 特大挂毯 马剃天爱星",
       "category_id": "tapestry",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "马剃天爱星",
       "sale_format": {
@@ -6442,9 +6412,9 @@
       "global_product_id": "thechara-shrine-woodstrap-tiara",
       "character_id": "basori-tiara",
       "name_ja": "木札ストラップ 馬剃天愛星 巫女舞 ver.",
-      "name_zh": "巫女舞 木牌挂件 马剃天爱星",
+      "name_zh": "京まふ 2026 巫女舞 木牌挂件 马剃天爱星",
       "category_id": "accessory",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "马剃天爱星",
       "sale_format": {
@@ -7910,6 +7880,166 @@
         "志喜屋梦子＆马剃天爱星"
       ],
       "notes": "已按动画官网 Blu-ray/DVD 店铺特典清单与官方商品图核对。"
+    },
+    {
+      "id": "across-tsuwabuki-chibi-keychain-tiara",
+      "global_product_id": "across-tsuwabuki-chibi-keychain-tiara",
+      "character_id": "basori-tiara",
+      "name_ja": "ツワブキ祭ディフォルメイラストキーホルダー 馬剃天愛星",
+      "name_zh": "AKROS 石蕗祭Q版亚克力挂件 马剃天爱星",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "across-tsuwabuki-chibi-2025",
+      "manufacturer_id": "akros",
+      "variant": "全7款中的马剃天爱星款",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": "约65×40mm，因角色而异",
+        "material": "亚克力"
+      },
+      "release_date": "2025-03-22",
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/across-tsuwabuki-chibi-keychain-tiara.jpg",
+          "thumbnail_path": "images/thumbs/across-tsuwabuki-chibi-keychain-tiara.webp",
+          "role": "lineup",
+          "source_url": "https://files.value-press.com/czMjYXJ0aWNsZSMzMDI3NiMzNTI0NDcjMzAyNzZfVlNGU2NUWHB3Sy5qcGc.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AKROS / AnimeJapan 2025",
+          "phase": "event_pre_sale",
+          "url": "https://www.value-press.com/pressrelease/352447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.value-press.com/pressrelease/352447",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "AKROS",
+        "石蕗祭",
+        "Q版",
+        "马剃天爱星"
+      ],
+      "notes": null
+    },
+    {
+      "id": "across-tsuwabuki-chibi-trading-badge",
+      "global_product_id": "across-tsuwabuki-chibi-trading-badge",
+      "character_id": "basori-tiara",
+      "name_ja": "ツワブキ祭ディフォルメイラスト缶バッジ",
+      "name_zh": "AKROS 石蕗祭Q版随机徽章（全7种）",
+      "category_id": "can_badge",
+      "campaign_id": "across-tsuwabuki-chibi-2025",
+      "manufacturer_id": "akros",
+      "variant": "随机全7款，图案包含马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": "直径57mm",
+        "material": null
+      },
+      "release_date": "2025-03-22",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/across-tsuwabuki-chibi-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/across-tsuwabuki-chibi-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://files.value-press.com/czMjYXJ0aWNsZSMzMDI3NiMzNTI0NDcjMzAyNzZfUnhPQ3lSa2xIWi5qcGc.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AKROS / AnimeJapan 2025",
+          "phase": "event_pre_sale",
+          "url": "https://www.value-press.com/pressrelease/352447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.value-press.com/pressrelease/352447",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "AKROS",
+        "石蕗祭",
+        "Q版",
+        "随机",
+        "马剃天爱星"
+      ],
+      "notes": "另售全7款完整套装4,620日元，本条按随机单抽记录。"
+    },
+    {
+      "id": "across-tsuwabuki-chibi-tshirt",
+      "global_product_id": "across-tsuwabuki-chibi-tshirt",
+      "character_id": "basori-tiara",
+      "name_ja": "ツワブキ祭ディフォルメイラストTシャツ",
+      "name_zh": "AKROS 石蕗祭Q版七人群像T恤",
+      "category_id": "apparel",
+      "campaign_id": "across-tsuwabuki-chibi-2025",
+      "manufacturer_id": "akros",
+      "variant": "背面七人群像包含马剃天爱星；M／L／XL",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "M／L／XL",
+        "material": "棉100%"
+      },
+      "release_date": "2025-03-22",
+      "list_price_yen": 4290,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/across-tsuwabuki-chibi-tshirt.jpg",
+          "thumbnail_path": "images/thumbs/across-tsuwabuki-chibi-tshirt.webp",
+          "role": "product",
+          "source_url": "https://files.value-press.com/czMjYXJ0aWNsZSMzMDI3NiMzNTI0NDcjMzAyNzZfemNqd2dEaW1rbC5qcGc.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AKROS / AnimeJapan 2025",
+          "phase": "event_pre_sale",
+          "url": "https://www.value-press.com/pressrelease/352447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.value-press.com/pressrelease/352447",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "AKROS",
+        "石蕗祭",
+        "Q版",
+        "马剃天爱星"
+      ],
+      "notes": "正面为石蕗高中标志，背面为七位角色群像。"
     }
   ]
 }

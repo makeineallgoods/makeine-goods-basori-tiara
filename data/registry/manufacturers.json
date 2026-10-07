@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-05",
+  "updated_at": "2026-10-08",
   "manufacturers": [
     {
       "id": "andblue",
@@ -232,12 +232,6 @@
       "aliases": []
     },
     {
-      "id": "suzuki-haruka",
-      "name_zh": "鈴木ハルカ",
-      "name_ja": "鈴木ハルカ",
-      "aliases": []
-    },
-    {
       "id": "system-service",
       "name_zh": "System Service",
       "name_ja": "システムサービス",
@@ -336,6 +330,16 @@
       "name_zh": "TOSYO",
       "name_ja": "TOSYO",
       "aliases": []
+    },
+    {
+      "id": "akros",
+      "name_zh": "AKROS",
+      "name_ja": "アクロス",
+      "aliases": [
+        "有限会社アクロス",
+        "アクロス コンテンツ事業部",
+        "ACROSS"
+      ]
     }
   ]
 }
