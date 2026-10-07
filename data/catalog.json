@@ -4,7 +4,7 @@
   "catalog": {
     "title": "马剃天爱星制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含马剃天爱星的官方实体制品",
-    "updated_at": "2026-10-05",
+    "updated_at": "2026-10-07",
     "status": "published"
   },
   "character": {
@@ -23,7 +23,7 @@
       "id": "amnibus-93944",
       "global_product_id": "amnibus-93944",
       "character_id": "basori-tiara",
-      "name_ja": "描き下ろし 馬剃 天愛星 駅員ver. 第2弾 ダイカットステッカー",
+      "name_ja": "描き下ろし 馬剃天愛星 駅員ver. 第2弾 ダイカットステッカー",
       "name_zh": "JR东海站员第二弹 异形贴纸 马剃天爱星",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -74,7 +74,7 @@
       "id": "amnibus-93957",
       "global_product_id": "amnibus-93957",
       "character_id": "basori-tiara",
-      "name_ja": "描き下ろし 馬剃 天愛星 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
+      "name_ja": "描き下ろし 馬剃天愛星 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
       "name_zh": "JR东海站员第二弹 双联钢丝大型亚克力挂件 马剃天爱星",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -125,7 +125,7 @@
       "id": "amnibus-93967",
       "global_product_id": "amnibus-93967",
       "character_id": "basori-tiara",
-      "name_ja": "描き下ろし 馬剃 天愛星 駅員ver. 第2弾 特大アクリルスタンド",
+      "name_ja": "描き下ろし 馬剃天愛星 駅員ver. 第2弾 特大アクリルスタンド",
       "name_zh": "JR东海站员第二弹 特大亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -176,7 +176,7 @@
       "id": "amnibus-93970",
       "global_product_id": "amnibus-93970",
       "character_id": "basori-tiara",
-      "name_ja": "描き下ろし 馬剃 天愛星 駅員ver. 第2弾 BIGアクリルスタンド",
+      "name_ja": "描き下ろし 馬剃天愛星 駅員ver. 第2弾 BIGアクリルスタンド",
       "name_zh": "JR东海站员第二弹 BIG亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
@@ -2297,13 +2297,13 @@
       "release_date": null,
       "list_price_yen": 880,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-keychain-tiara.jpg",
-          "role": "product",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976783_1_1759982710.jpg&width=400&height=400&square=1",
-          "thumbnail_path": "images/thumbs/eternorecit-keychain-tiara.webp"
+          "thumbnail_path": "images/thumbs/eternorecit-keychain-tiara.webp",
+          "role": "lineup",
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino021-028.jpg"
         }
       ],
       "sales": [
@@ -2315,15 +2315,15 @@
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277899/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "单人"
       ],
-      "notes": null
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-mini-card-set-b",
@@ -2340,19 +2340,19 @@
         "total_variants": 4
       },
       "spec": {
-        "size": null,
+        "size": "91×55mm",
         "material": "纸、PP"
       },
       "release_date": "2025-09-12",
       "list_price_yen": 550,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-mini-card-set-b.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-mini-card-set-b.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino003.jpg"
         }
       ],
       "sales": [
@@ -2366,7 +2366,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2375,7 +2375,7 @@
         "爱心Q版",
         "马剃天爱星"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-nameplate-tiara",
@@ -2398,13 +2398,13 @@
       "release_date": "2025-09-12",
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-nameplate-tiara.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-nameplate-tiara.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino004-011.jpg"
         }
       ],
       "sales": [
@@ -2418,7 +2418,7 @@
         {
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -2427,7 +2427,7 @@
         "爱心Q版",
         "马剃天爱星"
       ],
-      "notes": "Eterno Récit 活动页原商品图链接已失效，暂用同活动官方8人阵容图。"
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-stand-keyholder-tiara",
@@ -2450,13 +2450,13 @@
       "release_date": null,
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-stand-keyholder-tiara.jpg",
-          "role": "product",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=10141818_68ee15618ba36.jpg&width=400&height=400&square=1",
-          "thumbnail_path": "images/thumbs/eternorecit-stand-keyholder-tiara.webp"
+          "thumbnail_path": "images/thumbs/eternorecit-stand-keyholder-tiara.webp",
+          "role": "lineup",
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino013-020.jpg"
         }
       ],
       "sales": [
@@ -2468,15 +2468,15 @@
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277891/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "单人"
       ],
-      "notes": null
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-stickers",
@@ -2499,13 +2499,13 @@
       "release_date": null,
       "list_price_yen": 770,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-stickers.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-stickers.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976622_1_1759982706.jpg&width=400&height=400&square=1",
-          "thumbnail_path": "images/thumbs/eternorecit-stickers.webp"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino012.jpg"
         }
       ],
       "sales": [
@@ -2517,15 +2517,15 @@
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277883/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "套装"
       ],
-      "notes": null
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "eternorecit-trading-badge",
@@ -2548,13 +2548,13 @@
       "release_date": null,
       "list_price_yen": 550,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/eternorecit-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/eternorecit-trading-badge.webp",
           "role": "lineup",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1",
-          "thumbnail_path": "images/thumbs/eternorecit-trading-badge.webp"
+          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino001.jpg"
         }
       ],
       "sales": [
@@ -2566,15 +2566,15 @@
       ],
       "sources": [
         {
-          "url": "https://www.animate-onlineshop.jp/pn/pd/3277872/",
-          "type": "seller",
-          "checked_at": "2026-10-01"
+          "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
+          "type": "official",
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "随机"
       ],
-      "notes": null
+      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
     },
     {
       "id": "gagaga-J20220039",
@@ -2994,10 +2994,10 @@
         "size": null,
         "material": null
       },
-      "release_date": null,
+      "release_date": "2026-02-18",
       "list_price_yen": 500,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/gagaga-J20250040.jpg",
@@ -3022,7 +3022,7 @@
         {
           "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -3030,7 +3030,7 @@
         "随机",
         "联动"
       ],
-      "notes": null
+      "notes": "官方商品页确认盲抽规格；商品图为全9种阵容。"
     },
     {
       "id": "gagaga-J20250043",
@@ -3643,7 +3643,7 @@
       "id": "keyth-kemomimi-block-tiara",
       "global_product_id": "keyth-kemomimi-block-tiara",
       "character_id": "basori-tiara",
-      "name_ja": "ダイカットアクリルブロック 馬剃天愛星 けもみみパーカー",
+      "name_ja": "ダイカットアクリルブロック 馬剃天愛星／ケモミミパーカー",
       "name_zh": "兽耳连帽衫 异形亚克力砖 马剃天爱星",
       "category_id": "acrylic_art",
       "campaign_id": "kemomimi-parka",
@@ -3693,7 +3693,7 @@
       "id": "keyth-kemomimi-keychain-tiara",
       "global_product_id": "keyth-kemomimi-keychain-tiara",
       "character_id": "basori-tiara",
-      "name_ja": "アクリルキーホルダー 馬剃天愛星 けもみみパーカー",
+      "name_ja": "アクリルキーホルダー 馬剃天愛星／ケモミミパーカー",
       "name_zh": "兽耳连帽衫 亚克力挂件 马剃天爱星",
       "category_id": "acrylic_keychain",
       "campaign_id": "kemomimi-parka",
@@ -3843,7 +3843,7 @@
       "id": "keyth-kemomimi-stand-tiara",
       "global_product_id": "keyth-kemomimi-stand-tiara",
       "character_id": "basori-tiara",
-      "name_ja": "アクリルスタンド 馬剃天愛星 けもみみパーカー",
+      "name_ja": "アクリルスタンド 馬剃天愛星／ケモミミパーカー",
       "name_zh": "兽耳连帽衫 亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
       "campaign_id": "kemomimi-parka",
@@ -3993,7 +3993,7 @@
       "id": "kujicolle-christmas-2025-a-basori-tiara",
       "global_product_id": "kujicolle-christmas-2025-a-basori-tiara",
       "character_id": "basori-tiara",
-      "name_ja": "A-07賞 アクリルスタンド 馬剃 天愛星",
+      "name_ja": "A-07賞 アクリルスタンド 馬剃天愛星",
       "name_zh": "圣诞 Q 版网络抽奖 A-07奖 亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
       "campaign_id": "kujicolle-christmas-2025",
@@ -4046,7 +4046,7 @@
       "id": "kujicolle-christmas-2025-b-basori-tiara",
       "global_product_id": "kujicolle-christmas-2025-b-basori-tiara",
       "character_id": "basori-tiara",
-      "name_ja": "B-07賞 アクリルキーホルダー 馬剃 天愛星",
+      "name_ja": "B-07賞 アクリルキーホルダー 馬剃天愛星",
       "name_zh": "圣诞 Q 版网络抽奖 B-07奖 亚克力挂件 马剃天爱星",
       "category_id": "acrylic_keychain",
       "campaign_id": "kujicolle-christmas-2025",
@@ -4099,7 +4099,7 @@
       "id": "kujicolle-christmas-2025-c-basori-tiara",
       "global_product_id": "kujicolle-christmas-2025-c-basori-tiara",
       "character_id": "basori-tiara",
-      "name_ja": "C-07賞 缶バッジ 馬剃 天愛星",
+      "name_ja": "C-07賞 缶バッジ 馬剃天愛星",
       "name_zh": "圣诞 Q 版网络抽奖 C-07奖 徽章 马剃天爱星",
       "category_id": "can_badge",
       "campaign_id": "kujicolle-christmas-2025",
@@ -4865,8 +4865,8 @@
       "id": "thechara-fes-board-tiara",
       "global_product_id": "thechara-fes-board-tiara",
       "character_id": "basori-tiara",
-      "name_ja": "超特大ダイカットアクリルボード 馬剃天愛星 TSUWABUKI FES ver.",
-      "name_zh": "TSUWABUKI FES 超特大异形亚克力板 马剃天爱星",
+      "name_ja": "特大ダイカットアクリルボード 馬剃天愛星 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 特大异形亚克力板 马剃天爱星",
       "category_id": "acrylic_art",
       "campaign_id": "tsuwabuki-fes",
       "manufacturer_id": "contents-seed",
@@ -4882,34 +4882,34 @@
       "release_date": null,
       "list_price_yen": 5500,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-fes-board-tiara.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-board-tiara.webp",
           "role": "product",
-          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638200.jpg",
-          "thumbnail_path": "images/thumbs/thechara-fes-board-tiara.webp"
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031147_683e6244d0c00.jpg&width=1200&height=630"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "general_sale",
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638200"
+          "url": "https://www.gamers.co.jp/pn/pd/10805322/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638200",
+          "url": "https://www.gamers.co.jp/pn/pd/10805322/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "TSUWABUKI FES",
         "单人"
       ],
-      "notes": null
+      "notes": "已按 Gamers 原商品页的角色单品图核对。"
     },
     {
       "id": "thechara-fes-bromide-tiara",
@@ -4923,7 +4923,7 @@
       "variant": "马剃天爱星（活动特典）",
       "sale_format": {
         "type": "random",
-        "total_variants": 7
+        "total_variants": 9
       },
       "spec": {
         "size": null,
@@ -4932,27 +4932,27 @@
       "release_date": "2025-08-20",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-fes-bromide-tiara.jpg",
+          "path": "images/items/source-8217078d1c3848dd5774.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-bromide-tiara.webp",
-          "role": "bonus",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+          "role": "lineup",
+          "source_url": "https://asset.watch.impress.co.jp/img/gmw/docs/2008/039/0_l.jpg"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "purchase_bonus",
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/"
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html"
         }
       ],
       "sources": [
         {
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/",
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html",
           "type": "secondary",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -4960,7 +4960,7 @@
         "TSUWABUKI FES",
         "马剃天爱星"
       ],
-      "notes": "活动特典/抽选品，非单独销售；二级市场实物记录与官方7人商品阵容交叉确认。"
+      "notes": "活动满额特典，非单独销售；活动宣传图明确列出全9种照片卡。"
     },
     {
       "id": "thechara-fes-clock-student-council",
@@ -5183,27 +5183,27 @@
       "release_date": "2025-08-20",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/thechara-fes-lottery-figure-tiara.jpg",
+          "path": "images/items/source-8217078d1c3848dd5774.jpg",
           "thumbnail_path": "images/thumbs/thechara-fes-lottery-figure-tiara.webp",
-          "role": "bonus",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+          "role": "lineup",
+          "source_url": "https://asset.watch.impress.co.jp/img/gmw/docs/2008/039/0_l.jpg"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "lottery_prize",
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/"
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html"
         }
       ],
       "sources": [
         {
-          "url": "https://www.gamers.co.jp/pn/pd/10805297/",
+          "url": "https://game.watch.impress.co.jp/docs/news/2008039.html",
           "type": "secondary",
-          "checked_at": "2026-10-02"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -5211,7 +5211,7 @@
         "TSUWABUKI FES",
         "马剃天爱星"
       ],
-      "notes": "活动特典/抽选品，非单独销售；二级市场实物记录与官方7人商品阵容交叉确认。"
+      "notes": "活动抽奖品，非单独销售；活动宣传图明确列出全7种特大亚克力立牌。"
     },
     {
       "id": "thechara-fes-memorial-art-student-council",
@@ -5385,34 +5385,34 @@
       "release_date": null,
       "list_price_yen": 7700,
       "official_status": "official",
-      "verification": "seller_claim",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-fes-tapestry-tiara.jpg",
+          "thumbnail_path": "images/thumbs/thechara-fes-tapestry-tiara.webp",
           "role": "product",
-          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638216.jpg",
-          "thumbnail_path": "images/thumbs/thechara-fes-tapestry-tiara.webp"
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031156_683e644da3aa4.jpg&width=1200&height=630"
         }
       ],
       "sales": [
         {
           "seller": "コンテンツシード",
           "phase": "general_sale",
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638216"
+          "url": "https://www.gamers.co.jp/pn/pd/10805338/"
         }
       ],
       "sources": [
         {
-          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638216",
+          "url": "https://www.gamers.co.jp/pn/pd/10805338/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
         "TSUWABUKI FES",
         "单人"
       ],
-      "notes": null
+      "notes": "已按 Gamers 原商品页的角色单品图核对。"
     },
     {
       "id": "thechara-fes-tshirt-student-council",
@@ -6608,13 +6608,13 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-bromide-tiara.jpg",
-          "role": "reference",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a5236669.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-bromide-tiara.webp"
+          "thumbnail_path": "images/thumbs/thechara-valentine-bromide-tiara.webp",
+          "role": "bonus",
+          "source_url": "https://anime-press.net/wp-content/uploads/2026/02/01051459_695b5359de676.jpg"
         }
       ],
       "sales": [
@@ -6628,7 +6628,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -6636,7 +6636,7 @@
         "购入特典",
         "非卖品"
       ],
-      "notes": "每购买活动商品3,000日元随机赠送1枚；图片为同系列角色图参考。"
+      "notes": "采用活动满额特典七款照片卡完整总览图。"
     },
     {
       "id": "thechara-valentine-clock",
@@ -6759,13 +6759,13 @@
       "release_date": null,
       "list_price_yen": 990,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-keychain-tiara.jpg",
+          "thumbnail_path": "images/thumbs/thechara-valentine-keychain-tiara.webp",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271415_697849e50c89a.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-keychain-tiara.webp"
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809741.jpg"
         }
       ],
       "sales": [
@@ -6784,12 +6784,12 @@
         {
           "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.gamers.co.jp/pn/pd/10870399/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -6797,7 +6797,7 @@
         "镭射",
         "单人"
       ],
-      "notes": "资料图待补"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "thechara-valentine-lottery-figure-tiara",
@@ -6820,13 +6820,13 @@
       "release_date": null,
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-lottery-figure-tiara.jpg",
-          "role": "reference",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a5236669.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-lottery-figure-tiara.webp"
+          "thumbnail_path": "images/thumbs/thechara-valentine-lottery-figure-tiara.webp",
+          "role": "lineup",
+          "source_url": "https://anime-press.net/wp-content/uploads/2026/02/01051456_695b528c745fe.jpg"
         }
       ],
       "sales": [
@@ -6840,7 +6840,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
           "type": "official",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -6848,7 +6848,7 @@
         "抽奖",
         "非卖品"
       ],
-      "notes": "店铺抽奖A赏；图片为同系列天爱星角色图参考。"
+      "notes": "采用活动抽奖 A 奖六角色完整奖品图。"
     },
     {
       "id": "thechara-valentine-memorial-art",
@@ -6921,13 +6921,13 @@
       "release_date": null,
       "list_price_yen": 825,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-microfiber-tiara.jpg",
+          "thumbnail_path": "images/thumbs/thechara-valentine-microfiber-tiara.webp",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271419_69784acc097af.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-microfiber-tiara.webp"
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809758.jpg"
         }
       ],
       "sales": [
@@ -6941,12 +6941,12 @@
         {
           "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.gamers.co.jp/pn/pd/10870416/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -6954,7 +6954,7 @@
         "新规绘制",
         "单人"
       ],
-      "notes": "资料图待补"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "thechara-valentine-mini-art",
@@ -7127,13 +7127,13 @@
       "release_date": null,
       "list_price_yen": 2200,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-stand-tiara.jpg",
+          "thumbnail_path": "images/thumbs/thechara-valentine-stand-tiara.webp",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a5236669.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-stand-tiara.webp"
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809749.jpg"
         }
       ],
       "sales": [
@@ -7152,12 +7152,12 @@
         {
           "url": "https://www.the-chara.com/view/item/000000088322",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.gamers.co.jp/pn/pd/10870407/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7165,7 +7165,7 @@
         "新规绘制",
         "单人"
       ],
-      "notes": "商品代码 0_4570179858598；资料图待补"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "thechara-valentine-tapestry-tiara",
@@ -7188,13 +7188,13 @@
       "release_date": null,
       "list_price_yen": 8800,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
           "path": "images/items/thechara-valentine-tapestry-tiara.jpg",
+          "thumbnail_path": "images/thumbs/thechara-valentine-tapestry-tiara.webp",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271427_69784cc0c73a0.jpg&width=1200&height=630",
-          "thumbnail_path": "images/thumbs/thechara-valentine-tapestry-tiara.webp"
+          "source_url": "https://img.amiami.jp/images/product/main/262/GOODS-04809768.jpg"
         }
       ],
       "sales": [
@@ -7208,12 +7208,12 @@
         {
           "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3",
           "type": "manufacturer",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         },
         {
           "url": "https://www.gamers.co.jp/pn/pd/10870426/",
           "type": "seller",
-          "checked_at": "2026-10-01"
+          "checked_at": "2026-10-07"
         }
       ],
       "tags": [
@@ -7221,7 +7221,7 @@
         "新规绘制",
         "单人"
       ],
-      "notes": "资料图待补"
+      "notes": "已核对 AmiAmi 商品页的角色单品图与官方活动阵容。"
     },
     {
       "id": "tosyo-coaster-tiara",
@@ -7858,6 +7858,58 @@
         "马剃天爱星"
       ],
       "notes": "官方商品图确认学生会图案包含马剃天爱星。"
+    },
+    {
+      "id": "bddvd-aniplex-yumeko-tiara-tapestry",
+      "global_product_id": "bddvd-aniplex-yumeko-tiara-tapestry",
+      "character_id": "basori-tiara",
+      "name_ja": "全巻特典 温水の部屋の美少女タペストリーイラスト B2タペストリー（志喜屋夢子＆馬剃天愛星）",
+      "name_zh": "Blu-ray/DVD Aniplex 全卷特典 温水房间的美少女插画 B2挂毯（志喜屋梦子＆马剃天爱星）",
+      "category_id": "tapestry",
+      "campaign_id": "anime-bddvd-store-benefits",
+      "manufacturer_id": "aniplex",
+      "variant": "志喜屋梦子＆马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/bddvd-aniplex-yumeko-tiara-tapestry.jpg",
+          "thumbnail_path": "images/thumbs/bddvd-aniplex-yumeko-tiara-tapestry.webp",
+          "role": "product",
+          "source_url": "https://makeine-anime.com/assets/img/bddvd/img_goods_aniplex_05.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Aniplex Online",
+          "phase": "purchase_bonus",
+          "url": "https://makeine-anime.com/bddvd/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/bddvd/",
+          "type": "official",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "Blu-ray/DVD",
+        "店铺特典",
+        "志喜屋梦子＆马剃天爱星"
+      ],
+      "notes": "已按动画官网 Blu-ray/DVD 店铺特典清单与官方商品图核对。"
     }
   ]
 }

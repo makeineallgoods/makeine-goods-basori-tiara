@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06",
+  "updated_at": "2026-10-07",
   "campaigns": [
     {
       "id": "after-kyomaf",
@@ -328,6 +328,17 @@
       ],
       "year": 2026,
       "official_url": "https://shop.toysanta.jp/?pid=190203881"
+    },
+    {
+      "id": "anime-bddvd-store-benefits",
+      "name_zh": "动画 Blu-ray/DVD 店铺特典",
+      "name_ja": "Blu-ray/DVD 店舗別特典",
+      "aliases": [
+        "全巻購入特典",
+        "連動購入特典"
+      ],
+      "year": 2024,
+      "official_url": "https://makeine-anime.com/bddvd/?id=03"
     }
   ]
 }
