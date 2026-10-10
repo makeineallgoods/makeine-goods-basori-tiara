@@ -4,7 +4,7 @@
   "catalog": {
     "title": "马剃天爱星制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含马剃天爱星的官方实体制品",
-    "updated_at": "2026-10-08",
+    "updated_at": "2026-10-10",
     "status": "published"
   },
   "character": {
@@ -1150,8 +1150,8 @@
         {
           "path": "images/items/animega-chibi-2025-big-stand-tiara.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-big-stand-tiara.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-7983d576b19a83ff621a1df6ac1ef624-1000x1000.jpg"
+          "role": "product",
+          "source_url": "https://image.sofmap.com/images/product/pim/4571694210274_A01.jpg?v=20012001"
         }
       ],
       "sales": [
@@ -1200,8 +1200,8 @@
         {
           "path": "images/items/animega-chibi-2025-cushion-tiara.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-cushion-tiara.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-6424fabaccf2d064b025f9bcfa2b9315-1000x1000.jpg"
+          "role": "product",
+          "source_url": "https://image.sofmap.com/images/product/pim/4571694210359_A01.jpg?v=20012001"
         }
       ],
       "sales": [
@@ -1498,16 +1498,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/suzuki-haruka-stand-tiara.jpg",
-          "role": "product",
-          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210083_1_1762945511.jpg&width=400&height=400&square=1",
-          "thumbnail_path": "images/thumbs/suzuki-haruka-stand-tiara.webp"
-        },
-        {
           "path": "images/items/animega-chibi-2025-stand-tiara.jpg",
           "thumbnail_path": "images/thumbs/animega-chibi-2025-stand-tiara.webp",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/66407/244/66407-244-9370d70bf93fce79c53ddf34a8c7e939-1000x1000.jpg"
+          "role": "product",
+          "source_url": "https://image.sofmap.com/images/product/pim/4571694210083_A01.jpg?v=20012001"
         }
       ],
       "sales": [
@@ -2320,8 +2314,8 @@
         {
           "path": "images/items/eternorecit-keychain-tiara.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-keychain-tiara.webp",
-          "role": "lineup",
-          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino021-028.jpg"
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/174/13645174.jpg"
         }
       ],
       "sales": [
@@ -2336,12 +2330,17 @@
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://goodsrepublic.com/product/product_page_8334317.html",
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
         "单人"
       ],
-      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+      "notes": "Eterno Recit 官方活动页确认商品；单品图由 Goods Republic 商品页核对。"
     },
     {
       "id": "eternorecit-mini-card-set-b",
@@ -2421,8 +2420,8 @@
         {
           "path": "images/items/eternorecit-nameplate-tiara.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-nameplate-tiara.webp",
-          "role": "lineup",
-          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino004-011.jpg"
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/199/13645199.jpg"
         }
       ],
       "sales": [
@@ -2437,6 +2436,11 @@
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://goodsrepublic.com/product/product_page_8334327.html",
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
@@ -2445,7 +2449,7 @@
         "爱心Q版",
         "马剃天爱星"
       ],
-      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+      "notes": "Eterno Recit 官方活动页确认商品；单品图由 Goods Republic 商品页核对。"
     },
     {
       "id": "eternorecit-stand-keyholder-tiara",
@@ -2473,8 +2477,8 @@
         {
           "path": "images/items/eternorecit-stand-keyholder-tiara.jpg",
           "thumbnail_path": "images/thumbs/eternorecit-stand-keyholder-tiara.webp",
-          "role": "lineup",
-          "source_url": "https://www.eternorecit.jp/images/collabo/2025/er05-makeine-a/ermkino013-020.jpg"
+          "role": "product",
+          "source_url": "https://goodsrepublic.com/media/binary/013/645/323/13645323.jpg"
         }
       ],
       "sales": [
@@ -2489,12 +2493,17 @@
           "url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://goodsrepublic.com/product/product_page_8334365.html",
+          "type": "retailer",
+          "checked_at": "2026-10-10"
         }
       ],
       "tags": [
         "单人"
       ],
-      "notes": "已按 ETERNO RÉCIT 官方联动页的对应商品品类图核对。"
+      "notes": "Eterno Recit 官方活动页确认商品；单品图由 Goods Republic 商品页核对。"
     },
     {
       "id": "eternorecit-stickers",
@@ -2999,11 +3008,11 @@
       "global_product_id": "gagaga-j20250040",
       "character_id": "basori-tiara",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボランダム缶バッジ",
-      "name_zh": "竹岛水族馆联动 随机徽章 马剃天爱星款",
+      "name_zh": "竹岛水族馆联动 随机徽章",
       "category_id": "can_badge",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
-      "variant": "马剃天爱星款包含在随机阵容中",
+      "variant": "马剃天爱星款包含在随机全9种中",
       "sale_format": {
         "type": "random",
         "total_variants": 9
@@ -3612,7 +3621,7 @@
       "global_product_id": "keyth-kemomimi-badge",
       "character_id": "basori-tiara",
       "name_ja": "トレーディング缶バッジ けもみみパーカー",
-      "name_zh": "兽耳连帽衫随机徽章",
+      "name_zh": "兽耳连帽造型随机徽章",
       "category_id": "can_badge",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -3662,7 +3671,7 @@
       "global_product_id": "keyth-kemomimi-block-tiara",
       "character_id": "basori-tiara",
       "name_ja": "ダイカットアクリルブロック 馬剃天愛星／ケモミミパーカー",
-      "name_zh": "兽耳连帽衫 异形亚克力砖 马剃天爱星",
+      "name_zh": "兽耳连帽造型 异形亚克力砖 马剃天爱星",
       "category_id": "acrylic_art",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -3712,7 +3721,7 @@
       "global_product_id": "keyth-kemomimi-keychain-tiara",
       "character_id": "basori-tiara",
       "name_ja": "アクリルキーホルダー 馬剃天愛星／ケモミミパーカー",
-      "name_zh": "兽耳连帽衫 亚克力挂件 马剃天爱星",
+      "name_zh": "兽耳连帽造型 亚克力挂件 马剃天爱星",
       "category_id": "acrylic_keychain",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -3762,7 +3771,7 @@
       "global_product_id": "keyth-kemomimi-noren",
       "character_id": "basori-tiara",
       "name_ja": "のれん けもみみパーカー",
-      "name_zh": "兽耳连帽衫门帘",
+      "name_zh": "兽耳连帽造型门帘",
       "category_id": "fabric_goods",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -3812,7 +3821,7 @@
       "global_product_id": "keyth-kemomimi-rubbermat",
       "character_id": "basori-tiara",
       "name_ja": "ラバーマット けもみみパーカー",
-      "name_zh": "兽耳连帽衫橡胶桌垫",
+      "name_zh": "兽耳连帽造型橡胶桌垫",
       "category_id": "stationery",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -3862,7 +3871,7 @@
       "global_product_id": "keyth-kemomimi-stand-tiara",
       "character_id": "basori-tiara",
       "name_ja": "アクリルスタンド 馬剃天愛星／ケモミミパーカー",
-      "name_zh": "兽耳连帽衫 亚克力立牌 马剃天爱星",
+      "name_zh": "兽耳连帽造型 亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -3912,7 +3921,7 @@
       "global_product_id": "keyth-kemomimi-tote",
       "character_id": "basori-tiara",
       "name_ja": "トートバッグ けもみみパーカー",
-      "name_zh": "兽耳连帽衫托特包",
+      "name_zh": "兽耳连帽造型托特包",
       "category_id": "bag",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -3962,7 +3971,7 @@
       "global_product_id": "keyth-kemomimi-tshirt",
       "character_id": "basori-tiara",
       "name_ja": "Tシャツ けもみみパーカー",
-      "name_zh": "兽耳连帽衫 T 恤",
+      "name_zh": "兽耳连帽造型 T 恤",
       "category_id": "apparel",
       "campaign_id": "kemomimi-parka",
       "manufacturer_id": "key-th-curtain-damashii",
@@ -4275,7 +4284,7 @@
       "global_product_id": "neogate-yumekawa-badge",
       "character_id": "basori-tiara",
       "name_ja": "トレーディング缶バッジ 《ゆめかわver.》",
-      "name_zh": "梦幻可爱版随机徽章",
+      "name_zh": "梦川 FAIR 随机徽章",
       "category_id": "can_badge",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -4291,12 +4300,12 @@
       "release_date": "2026-10-10",
       "list_price_yen": 440,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/neogate-yumekawa-01.webp",
+          "path": "images/items/neogate-yumekawa-badge.webp",
           "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image01.webp",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096036_2_1786075507.jpg",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-badge.webp"
         }
       ],
@@ -4304,7 +4313,7 @@
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562492/"
         }
       ],
       "sources": [
@@ -4312,10 +4321,15 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562492/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "随机",
         "新规绘制"
       ],
@@ -4326,7 +4340,7 @@
       "global_product_id": "neogate-yumekawa-big-badge",
       "character_id": "basori-tiara",
       "name_ja": "BIGホログラム缶バッジ 《ゆめかわver.》 馬剃天愛星",
-      "name_zh": "梦幻可爱版 马剃天爱星 BIG 镭射徽章",
+      "name_zh": "梦川 FAIR BIG 镭射徽章 马剃天爱星",
       "category_id": "can_badge",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -4342,12 +4356,12 @@
       "release_date": "2026-10-10",
       "list_price_yen": 660,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/neogate-yumekawa-05.webp",
-          "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image05.webp",
+          "path": "images/items/neogate-yumekawa-big-badge.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096210_1_1786075513.jpg",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-big-badge.webp"
         }
       ],
@@ -4355,7 +4369,7 @@
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562508/"
         }
       ],
       "sources": [
@@ -4363,21 +4377,26 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562508/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "镭射",
         "单人"
       ],
-      "notes": null
+      "notes": "图片已替换为 Animate 商品详情图。"
     },
     {
       "id": "neogate-yumekawa-bookmark-tiara",
       "global_product_id": "neogate-yumekawa-bookmark-tiara",
       "character_id": "basori-tiara",
       "name_ja": "特製しおり 馬剃天愛星 ゆめかわver.",
-      "name_zh": "梦幻可爱 马剃天爱星 特制书签（店铺购入特典）",
+      "name_zh": "梦川 FAIR 特制书签 马剃天爱星（店铺购入特典）",
       "category_id": "card",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate-animate",
@@ -4417,7 +4436,7 @@
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "购入特典",
         "非卖品"
       ],
@@ -4428,7 +4447,7 @@
       "global_product_id": "neogate-yumekawa-clear-card",
       "character_id": "basori-tiara",
       "name_ja": "トレーディングクリアカード 《ゆめかわver.》",
-      "name_zh": "梦幻可爱版随机透明卡",
+      "name_zh": "梦川 FAIR 随机透明卡",
       "category_id": "card",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -4447,9 +4466,9 @@
       "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/neogate-yumekawa-02.webp",
+          "path": "images/items/neogate-yumekawa-clear-card.webp",
           "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image02.webp",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096050_2_1786075509.jpg",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-clear-card.webp"
         }
       ],
@@ -4457,7 +4476,7 @@
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562493/"
         }
       ],
       "sources": [
@@ -4465,10 +4484,15 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562493/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "随机",
         "透明卡"
       ],
@@ -4479,7 +4503,7 @@
       "global_product_id": "neogate-yumekawa-clear-file",
       "character_id": "basori-tiara",
       "name_ja": "A4クリアファイル 《ゆめかわver.》",
-      "name_zh": "梦幻可爱版 A4 透明文件夹",
+      "name_zh": "梦川 FAIR A4 透明文件夹",
       "category_id": "clear_file",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -4498,9 +4522,9 @@
       "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/neogate-yumekawa-06.webp",
-          "role": "product",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image06.webp",
+          "path": "images/items/neogate-yumekawa-clear-file.webp",
+          "role": "lineup",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096227_1_1786075514.jpg",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-clear-file.webp"
         }
       ],
@@ -4508,7 +4532,7 @@
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562509/"
         }
       ],
       "sources": [
@@ -4516,10 +4540,15 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562509/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "群像"
       ],
       "notes": null
@@ -4529,7 +4558,7 @@
       "global_product_id": "neogate-yumekawa-heart-card-tiara",
       "character_id": "basori-tiara",
       "name_ja": "ハート型ミニカード 馬剃天愛星 ゆめかわver.",
-      "name_zh": "梦幻可爱 马剃天爱星 心形迷你卡（通贩预订特典）",
+      "name_zh": "梦川 FAIR 心形迷你卡 马剃天爱星（通贩预订特典）",
       "category_id": "card",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate-animate",
@@ -4569,7 +4598,7 @@
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "预订特典",
         "非卖品"
       ],
@@ -4580,7 +4609,7 @@
       "global_product_id": "neogate-yumekawa-keychain",
       "character_id": "basori-tiara",
       "name_ja": "アクリルキーホルダー 《ゆめかわver.》 馬剃天愛星",
-      "name_zh": "梦幻可爱版 马剃天爱星 亚克力挂件",
+      "name_zh": "梦川 FAIR 亚克力挂件 马剃天爱星",
       "category_id": "acrylic_keychain",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -4596,12 +4625,12 @@
       "release_date": "2026-10-10",
       "list_price_yen": 715,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/neogate-yumekawa-04.webp",
-          "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image04.webp",
+          "path": "images/items/neogate-yumekawa-keychain.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096166_1_1786075512.jpg",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-keychain.webp"
         }
       ],
@@ -4609,7 +4638,7 @@
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562503/"
         }
       ],
       "sources": [
@@ -4617,21 +4646,26 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562503/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "单人",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "图片已替换为 Animate 商品详情图。"
     },
     {
       "id": "neogate-yumekawa-panel",
       "global_product_id": "neogate-yumekawa-panel",
       "character_id": "basori-tiara",
       "name_ja": "ダイカットアクリルパネル 《ゆめかわver.》 馬剃天愛星",
-      "name_zh": "梦幻可爱版 马剃天爱星 异形亚克力面板",
+      "name_zh": "梦川 FAIR 异形亚克力面板 马剃天爱星",
       "category_id": "acrylic_art",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -4647,12 +4681,12 @@
       "release_date": "2026-10-10",
       "list_price_yen": 3300,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/neogate-yumekawa-07.webp",
-          "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image07.webp",
+          "path": "images/items/neogate-yumekawa-panel.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096272_1_1786075517.jpg",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-panel.webp"
         }
       ],
@@ -4660,7 +4694,7 @@
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562514/"
         }
       ],
       "sources": [
@@ -4668,21 +4702,26 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562514/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "单人",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "图片已替换为 Animate 商品详情图。"
     },
     {
       "id": "neogate-yumekawa-postcards",
       "global_product_id": "neogate-yumekawa-postcards",
       "character_id": "basori-tiara",
       "name_ja": "ポストカードセット 《ゆめかわver.》",
-      "name_zh": "梦幻可爱版明信片套装",
+      "name_zh": "梦川 FAIR 明信片套装",
       "category_id": "card",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -4701,9 +4740,9 @@
       "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/neogate-yumekawa-08.webp",
-          "role": "product",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image08.webp",
+          "path": "images/items/neogate-yumekawa-postcards.webp",
+          "role": "lineup",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096289_1_1786075517.jpg",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-postcards.webp"
         }
       ],
@@ -4711,7 +4750,7 @@
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562515/"
         }
       ],
       "sources": [
@@ -4719,10 +4758,15 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562515/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "套装",
         "群像"
       ],
@@ -4733,7 +4777,7 @@
       "global_product_id": "neogate-yumekawa-stand",
       "character_id": "basori-tiara",
       "name_ja": "アクリルスタンド 《ゆめかわver.》 馬剃天愛星",
-      "name_zh": "梦幻可爱版 马剃天爱星 亚克力立牌",
+      "name_zh": "梦川 FAIR 亚克力立牌 马剃天爱星",
       "category_id": "acrylic_stand",
       "campaign_id": "yumekawa-fair-animate",
       "manufacturer_id": "neo-gate",
@@ -4749,12 +4793,12 @@
       "release_date": "2026-10-10",
       "list_price_yen": 1980,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/neogate-yumekawa-03.webp",
-          "role": "lineup",
-          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image03.webp",
+          "path": "images/items/neogate-yumekawa-stand.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580827096111_1_1786075512.jpg",
           "thumbnail_path": "images/thumbs/neogate-yumekawa-stand.webp"
         }
       ],
@@ -4762,7 +4806,7 @@
         {
           "seller": "アニメイト",
           "phase": "event_presale",
-          "url": "https://www.neogate.jp/makeine_goods/"
+          "url": "https://www.animate-onlineshop.jp/pd/3562498/"
         }
       ],
       "sources": [
@@ -4770,14 +4814,19 @@
           "url": "https://www.neogate.jp/makeine_goods/",
           "type": "manufacturer",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/3562498/",
+          "type": "official_retail",
+          "checked_at": "2026-10-08"
         }
       ],
       "tags": [
-        "梦幻可爱",
+        "梦川",
         "单人",
         "新规绘制"
       ],
-      "notes": null
+      "notes": "图片已替换为 Animate 商品详情图。"
     },
     {
       "id": "thechara-fes-badge",
