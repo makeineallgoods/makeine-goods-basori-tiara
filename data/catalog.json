@@ -975,18 +975,18 @@
       "notes": null
     },
     {
-      "id": "amnibus-nonhoi-chibi-mug",
-      "global_product_id": "amnibus-nonhoi-chibi-mug",
+      "id": "amnibus-nonhoi-chibi-attraction-mug",
+      "global_product_id": "amnibus-nonhoi-chibi-attraction-mug",
       "character_id": "basori-tiara",
       "name_ja": "ちびキャラ アトラクションver. マグカップ",
       "name_zh": "丰桥动物园 Q 版游乐设施马克杯",
       "category_id": "tableware",
       "campaign_id": "nonhoi-park",
       "manufacturer_id": "arma-bianca",
-      "variant": "集合图内含马剃天爱星",
+      "variant": "游乐设施版图案包含马剃天爱星",
       "sale_format": {
         "type": "single",
-        "total_variants": null
+        "total_variants": 2
       },
       "spec": {
         "size": "直径约82×H95mm",
@@ -998,10 +998,10 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/amnibus-nonhoi-chibi-mug.jpg",
-          "role": "lineup",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-b88f22e3fbc32f789cc1fb3aa22cdf77-1350x1500.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-mug.webp"
+          "path": "images/items/amnibus-nonhoi-chibi-attraction-mug.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-attraction-mug.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-b88f22e3fbc32f789cc1fb3aa22cdf77-1350x1500.jpg"
         }
       ],
       "sales": [
@@ -1020,9 +1020,11 @@
       ],
       "tags": [
         "丰桥动物园",
-        "Q版"
+        "Q版",
+        "游乐设施版",
+        "马剃天爱星"
       ],
-      "notes": null
+      "notes": "官方商品图与角色阵容确认：游乐设施版图案包含马剃天爱星。"
     },
     {
       "id": "amnibus-nonhoi-chibi-stand",
@@ -5658,7 +5660,7 @@
         {
           "path": "images/items/thechara-pale-keychain-tiara.jpg",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181251_6a336b4d4daa3.jpg&width=1200&height=630",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181251_6a336b4d4daa3.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-keychain-tiara.webp"
         }
       ],
@@ -5679,6 +5681,11 @@
           "url": "https://www.gamers.co.jp/pn/pd/10907447/",
           "type": "seller",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907447/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -5815,7 +5822,7 @@
         {
           "path": "images/items/thechara-pale-microfiber-tiara.jpg",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181312_6a3370175c9d5.jpg&width=1200&height=630",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181312_6a3370175c9d5.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-microfiber-tiara.webp"
         }
       ],
@@ -5836,6 +5843,11 @@
           "url": "https://www.gamers.co.jp/pn/pd/10907464/",
           "type": "seller",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907464/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -5921,7 +5933,7 @@
         {
           "path": "images/items/thechara-pale-stand-tiara.jpg",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181258_6a336cf3d1124.jpg&width=1200&height=630",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181258_6a336cf3d1124.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-stand-tiara.webp"
         }
       ],
@@ -5942,6 +5954,11 @@
           "url": "https://www.gamers.co.jp/pn/pd/10907454/",
           "type": "seller",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907454/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -5977,7 +5994,7 @@
         {
           "path": "images/items/thechara-pale-tapestry-tiara.jpg",
           "role": "product",
-          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181317_6a33714449f5b.jpg&width=1200&height=630",
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181317_6a33714449f5b.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-tapestry-tiara.webp"
         }
       ],
@@ -5993,6 +6010,11 @@
           "url": "https://www.gamers.co.jp/pn/pd/10907471/",
           "type": "seller",
           "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907471/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
